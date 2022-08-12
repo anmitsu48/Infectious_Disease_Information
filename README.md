@@ -14,3 +14,8 @@
 資料の内容を説明したnote記事のURLを以下に示します。
 もし、資料の内容に不備がある場合は、下記のURLから閲覧できるnote記事のコメントで指摘していただけますと幸いです。
 - ランヤへ二パウイルス：https://note.com/anmitsu48/n/n4f3f33cc88be （最終更新：2022/08/12）
+
+## 資料作成時に参考にした文献
+【ランヤへ二パウイルス：LayV_】
+- Zhang et al., "A Zoonotic Henipavirus in Febrile Patients in China", The New England Journal of Medicine, vol. 387, no. 5, pp. 470-472, 2022.
+https://www.nejm.org/doi/10.1056/NEJMc2202705
