@@ -22,5 +22,5 @@
   (URL: https://www.nejm.org/doi/10.1056/NEJMc2202705)
 
 - **サル痘：monkeypox_ver220813.pdf**
-  - WHO Webページ：https://worldhealthorg.shinyapps.io/mpx_global/（22/8/13参照）
+  - WHO Webページ：https://worldhealthorg.shinyapps.io/mpx_global/ （22/8/13参照）
   - N. Giromettiet al., “Demographic and clinical characteristics of confirmed human monkeypoxvirus cases in individuals attending a sexual health centrein London, UK: an observational analysis”, The Lancet Infectious Diseases, 2022. (URL: https://doi.org/10.1016/S1473-3099(22)00411-X)
